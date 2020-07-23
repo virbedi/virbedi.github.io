@@ -1,7 +1,9 @@
-Personal Website Repo showcasing my work and etc 
-Credits:
-	Templates: HTML5up (html5up.net)
+A portfolio website hosted on github pages.
 
+Credits:
+	Templates: 
+		HTML5up (html5up.net)
+		
 	Demo Images:
 		Unsplash (unsplash.com)
 
