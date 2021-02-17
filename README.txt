@@ -1,6 +1,5 @@
-A portfolio website hosted on github pages.
-
-Credits:
+### `A portfolio website hosted on github pages`
+### `Tools used:`
 	Templates: 
 		HTML5up (html5up.net)
 		
