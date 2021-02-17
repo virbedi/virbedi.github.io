@@ -1,5 +1,5 @@
-### `A portfolio website hosted on github pages`
-### `Tools used:`
+# A portfolio website hosted on github pages
+# Tools used:
 	Templates: 
 		HTML5up (html5up.net)
 		
