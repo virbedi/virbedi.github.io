@@ -2312,12 +2312,12 @@ button,
   color: #e67300;
   margin-bottom: 0.5em;
 }
-.vida-roles {
+.role-info {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.vida-roles li {
+.role-info li {
   margin-bottom: 1.25em;
   padding-left: 0.5em;
   border-left: 3px solid #e67300;
