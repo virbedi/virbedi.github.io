@@ -2297,3 +2297,34 @@ button,
   color: #222;
   letter-spacing: 0.01em;
 }
+
+.work-group {
+  width: 100%;
+  background: #f8f9fa;
+  border-radius: 0.5em;
+  padding: 2em 2em 1.5em 2em;
+  margin-bottom: 2em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.work-group h3 {
+  margin-top: 0;
+  font-size: 1.4em;
+  color: #e67300;
+  margin-bottom: 0.5em;
+}
+.vida-roles {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.vida-roles li {
+  margin-bottom: 1.25em;
+  padding-left: 0.5em;
+  border-left: 3px solid #e67300;
+  background: none;
+}
+.role-dates {
+  color: #888;
+  font-size: 0.95em;
+  margin-left: 0.5em;
+}
