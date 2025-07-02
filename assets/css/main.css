@@ -2328,3 +2328,15 @@ button,
   font-size: 0.95em;
   margin-left: 0.5em;
 }
+.role-info ul {
+  list-style: disc;
+  margin-left: 1.5em;
+  padding-left: 1em;
+}
+.role-info ul li {
+  border: none;
+  background: none;
+  padding-left: 0;
+  margin-bottom: 0.5em;
+  color: inherit;
+}
