@@ -2271,3 +2271,72 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+.tech-tags {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1em 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+}
+.tech-tags li {
+  background: #e67300;
+  color: #fff;
+  font-size: 0.75em;
+  padding: 0.25em 0.75em;
+  border-radius: 1em;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  display: inline-block;
+}
+.project-title {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  color: #222;
+  letter-spacing: 0.01em;
+}
+
+.work-group {
+  width: 100%;
+  background: #f8f9fa;
+  border-radius: 0.5em;
+  padding: 2em 2em 1.5em 2em;
+  margin-bottom: 2em;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+.work-group h3 {
+  margin-top: 0;
+  font-size: 1.4em;
+  color: #e67300;
+  margin-bottom: 0.5em;
+}
+.role-info {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.role-info li {
+  margin-bottom: 1.25em;
+  padding-left: 0.5em;
+  border-left: 3px solid #e67300;
+  background: none;
+}
+.role-dates {
+  color: #888;
+  font-size: 0.95em;
+  margin-left: 0.5em;
+}
+.role-info ul {
+  list-style: disc;
+  margin-left: 1.5em;
+  padding-left: 1em;
+}
+.role-info ul li {
+  border: none;
+  background: none;
+  padding-left: 0;
+  margin-bottom: 0.5em;
+  color: inherit;
+}
